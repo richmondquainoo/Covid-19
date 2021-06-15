@@ -1,8 +1,8 @@
 # Covid-19 Dashboard
-## This is a simple covid dashboard in a jupyter notebook file
+#### This is a simple covid dashboard in a jupyter notebook file
 
-# Introduction
-### The covid situation in the world demands that a simple dashboard is made to show how far we have come in managing the situation.
+## Introduction
+#### The covid situation in the world demands that a simple dashboard is made to show how far we have come in managing the situation.
 
 ## Table of contents
 * [General info](#general-info)
